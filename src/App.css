@@ -1,0 +1,28 @@
+.App {
+  padding: 30px;
+  font-family: Arial;
+  text-align: center;
+  max-width: 500px;
+  margin: auto;
+}
+
+.input-area {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  width: 60%;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+}
+
+.task-list {
+  list-style-type: disc;
+  text-align: left;
+  padding-left: 40px;
+}
